@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dpp:home|Door43 (dpp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dpp|d43-dpp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dpp/archive/master.zip|d43-dpp.zip]]
+
+**Recent Changes**
+{{changes>ns = dpp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dpp|Ethnologue data]]
+
